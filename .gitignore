@@ -1,0 +1,11 @@
+# Node modules (for React)
+node_modules/
+
+# Python virtual environment (if using venv)
+venv/
+
+# Ignore build artifacts
+__pycache__/
+dist/
+build/
+ 
